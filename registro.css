@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+}
+body {
+      font-family: 'Oxanium', sans-serif;
+      background: url(fondo\ de\ pantalla\ 2.png);
+      background-size: cover;
+      
+      color: white;
+    }
